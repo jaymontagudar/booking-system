@@ -1,0 +1,7 @@
+config.php
+/public/css/tailwind.css
+*.sql
+*.db
+.vscode/
+.idea/
+node_modules/
